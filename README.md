@@ -1,2 +1,5 @@
 # helllo-world
-Just another repository
+
+Hi Humans!
+
+Shasha here, I like C#.
